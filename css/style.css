@@ -5,8 +5,11 @@ body {
     margin: 0;
 }
 
-h1  {
-    color:  #FFFFF0;
+header {
+    background-color: #FFFFF0;
+    color: #;
+    text-align: center;
+    padding: 1em;
 }
 
 td {
